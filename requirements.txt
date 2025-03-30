@@ -1,0 +1,10 @@
+pandas==1.5.3  # Data manipulation and analysis
+numpy==1.23.5  # Numerical computing
+matplotlib==3.7.1  # Data visualization
+seaborn==0.12.2  # Statistical data visualization
+scipy==1.10.1  # Scientific computing and statistical functions
+scikit-learn==1.2.2  # Machine learning algorithms
+xgboost==1.7.4  # Gradient boosting for supervised learning
+imblearn==0.10.1  # Imbalanced-learn for handling class imbalance
+joblib==1.2.0  # Model persistence and parallel computing
+warnings  # Suppresses warning messages
